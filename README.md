@@ -1,4 +1,6 @@
-### Hi there! 👋
+### Hi there! 👋 I'm Sebastian and I from Colombia.
+
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/juan2224511)
 
 <!--
 **juanpuerto23/juanpuerto23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
