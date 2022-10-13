@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Sebastian and I from Colombia.
-[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpuerto23)](https://github.com/juanpuerto23/github-readme-stats&show_icons=true&theme=radical)
+[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpuerto23)](https://github.com/juanpuerto23/github-readme-stats&show_icons=true&theme=synthwave)
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/juan2224511)
 
