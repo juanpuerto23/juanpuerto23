@@ -4,7 +4,7 @@
 
 ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpuerto23&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpuerto23&layout=compact)](https://github.com/juanpuerto23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpuerto23&layout=compact&theme=synthwave)](https://github.com/juanpuerto23/github-readme-stats)
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/juan2224511)
 
