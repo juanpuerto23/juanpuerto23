@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Sebastian. I'm a System Engineer Student and I want learn programming.
 ### Here is a little bit of information about me. 😄
-### I'm currently learning java. You are free to see what I do.
+### I'm currently learning C. You are free to see what I do.
 
 ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpuerto23&show_icons=true&theme=synthwave)
 
